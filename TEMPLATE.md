@@ -1,14 +1,12 @@
 ---
 title: My Super Awesome Tutorial
 date: 1970-01-01
+authors:
+  - name: John Doe
+  - name: Mary Jane
 ---
 
 ![relevant graphic or workshop logo](image/path)
-
-## Team Members
-
-1. John Doe
-1. Mary Jane
 
 ## Introduction
 
